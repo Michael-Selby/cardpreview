@@ -1,0 +1,32 @@
+/**body{
+  width:100%;
+  
+}*/
+
+
+
+#card-section {
+  width: 100%;
+}
+ 
+  
+
+.content-part1 {
+  background-color: #e28625;
+}
+.content-part2 {
+  background-color: #0069;
+}
+.content-part3 {
+  background-color:#004140;
+}
+
+.content-part1,.content-part2,.content-part3 {
+  width: 100;
+  height: 500px;
+  top: 171px;
+  left: 260px;
+}
+.button{
+  margin-top: 2rem;
+}
